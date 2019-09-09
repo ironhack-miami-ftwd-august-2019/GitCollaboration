@@ -1,0 +1,15 @@
+
+body {
+  background-color: pink;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+body img {
+  width: 20vw;
+}
+
+/* asdf fads fadsf sdaf  */
